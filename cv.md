@@ -5,12 +5,6 @@
 * telegram: @le_leleka
 * github: kosh3n
 
-
-
-
-
-iui
-
 ### Summary:
 Enthusiastic junior front-end developer with a desire to learn new technologies and use them every day. Skilled in HTML, CSS, JQuery and JavaScript.
 
@@ -18,9 +12,6 @@ Enthusiastic junior front-end developer with a desire to learn new technologies 
 * HTML/CSS; 
 * basic JS and jquery;
 * basic node.js & express
-
-
-
 
 ### Code examples (LATEST):
     function main() {
